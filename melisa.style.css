@@ -1,0 +1,43 @@
+body {;
+background-color: mediumpurple;
+text-align: center;
+}
+
+hr {
+	width: 50%;
+}
+
+h1 {
+	color: lightpink;
+}
+
+h2 {
+	color: lightpink;
+}
+
+p {
+	color: purple;
+}
+
+h3 {
+	color: lightpink;
+}
+
+h1.yes {
+	color: lightpink;
+	width: 70%;
+}
+
+h1.no {
+	color:lightpink;
+}
+
+table {
+	width: 70%;
+	text-align: right;
+}
+
+a {
+	color: lightpink;
+	text-underline-position: unset;
+}

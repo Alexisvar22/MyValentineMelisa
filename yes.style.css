@@ -1,0 +1,29 @@
+body {;
+background-color: mediumpurple;
+text-align: center;
+}
+
+hr {
+	width: 50%;
+}
+
+h1.big {
+	color: lightpink;
+	font-size: 100px;
+}
+
+h3 {
+	color: blue;
+}
+
+p {
+	color: purple;
+}
+
+img.bee{
+	width: 1200px; height: 600px;
+}
+
+h1{
+	color: lightpink;
+}
